@@ -1,0 +1,6 @@
+C:\Users\Familia Loaiza\source\repos\ProyectoTortuga\bin\Debug\ProyectoTortuga.exe.config
+C:\Users\Familia Loaiza\source\repos\ProyectoTortuga\bin\Debug\ProyectoTortuga.exe
+C:\Users\Familia Loaiza\source\repos\ProyectoTortuga\bin\Debug\ProyectoTortuga.pdb
+C:\Users\Familia Loaiza\source\repos\ProyectoTortuga\obj\Debug\ProyectoTortuga.csprojAssemblyReference.cache
+C:\Users\Familia Loaiza\source\repos\ProyectoTortuga\obj\Debug\ProyectoTortuga.exe
+C:\Users\Familia Loaiza\source\repos\ProyectoTortuga\obj\Debug\ProyectoTortuga.pdb
